@@ -1,0 +1,64 @@
+Rewriting and Reformatting Needed 
+==================================
+
+Add separate pointers for what you found impressive and why did you find them so
+
+Also check all the titles -- maybe you can modify a few of them 
+
+Also come up with another page, that does away with the technical jargon and has a humane touch to it, so that it connects with the readers well 
+
+1. more description needed (before Try Mega for Free) button (especially coz mega deploys tight security features) 
+	
+	WHY? 
+
+	- good place to add keywords (since its the topmost section of the page) and make the webpage rank well 
+	- to gain user trust
+	- to display how robust MEGA's security is
+
+2. Download files using links with no need to sign up -- sentence needs to be modified
+
+	WHY? 
+
+	- not the signed up user's benefit 
+	- moreover, the title might be a bit misleading, making uninitiated users think they don't have to sign up at all to use Mega 
+
+3. more descripton needed (after the transfer manager easily manages...description)  
+
+	WHY?
+	
+	- useful features like this can improve site traffic, therefore need to be explained in short sentences
+	- moreover, the uninitiated user might not know what a scheduled transfer is, especially since the MEGA user persona seems to cover users of all ages split into 2 broad categories (those who know how to use a computer/app and those who don't/are first timers) 
+
+4. descripton needs to be modified 
+
+	WHY? 
+
+        - mostly for minor language related issues
+	- 'put the power' seems a bit odd, 'give the power' might sound better 
+	- 'to all your data at all times' seems a bit odd, because of 2 consecutive 'alls', instead access to your data at all times would sound better
+
+=======================================================================================================================
+
+approach involved 
+
+1. reading the existing copy as the end user (which is quite easy for me at the moment) 
+
+2. noticing what grabs the eye (and checking whether it aligns with Mega's core) 
+
+3. reading and rereading content to understand mega jargon (every app has its own jargon) and looking at options to improve readability
+
+
+design process
+
+1. using html/css, keeping it minimal, close to the original 
+ 
+
+writing process
+
+4. keywords research (use ubersuggest) 
+
+3. ensuring keywords go into the first 100-150 words of the copy 
+
+5. final grammarly check for grammer errors, hemingwayapp for readability test, reading out the copy aloud 
+	
+ 
